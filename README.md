@@ -1,4 +1,4 @@
-readme_content = """
+
 # PSet #4 – Optimización de Gastos de Marketing para **Showz**
 
 Este proyecto analiza el comportamiento de clientes, ventas y gasto publicitario de la plataforma **Showz** con el fin de **maximizar el retorno de las inversiones de marketing (ROMI)** y proponer un presupuesto óptimo.
